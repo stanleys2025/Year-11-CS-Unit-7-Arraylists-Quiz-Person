@@ -3,16 +3,16 @@
 Ensure that you read all instructions carefully. Do not include any additional methods that are not specified in this quiz description. Think carefully about your solution before coding. Use meaningful variable names and ensure to use proper indentation - take pride in your work! Good luck, have fun! :)
 
 1. Inside the <b>Person</b> class, implement a <b>constructor</b>. The constructor should have three parameters and these parameters should be used to initialize the state of a Person object. 
-(1 mark)
+(1 mark) done
 
 2. Inside the <b>Person</b> class, implement <b>getter</b> methods for each of the three properties. 
-(1 mark)
+(1 mark) done
 
 3. Inside the <b>Person</b> class, implement <b>setter</b> methods for each of the three properties. 
-(1 mark)
+(1 mark) done
 
 4. Inside the <b>Person</b> class, implement a <b>toString</b> method. Your toString method can follow any format so long as it returns a string that consists of all three properties and appropriate whitespaces between them. 
-(1 mark)
+(1 mark) done
 
 5. Inside the <b>PersonFactory</b> class, complete the method <b>addPerson</b>. This method will take a <b>Person</b> object and add it to the <b>allPersons</b> list. The <b>Person object will be added to the position in the list corresponding to their last name</b>. That is, the allPersons list will be in ascending alphabetical order according to the last name of the Person objects stored in the allPersons list. (6 marks)
 
